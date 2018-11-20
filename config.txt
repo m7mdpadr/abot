@@ -7,10 +7,10 @@ token=NTE0NTgyMTAwMTA0NTc3MDI0.DtYp3w.6CbwzOFs3Sw5tM7AhFp9TEPizJ0
 owner=326214483791970314
 
 
-prefix=a
+prefix=a$
 
 
-game=ahelp | aplay
+game=a$help | a$play
 
 status=DND
 
