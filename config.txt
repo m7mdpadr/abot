@@ -1,16 +1,16 @@
 ﻿
 
 
-token=
+token=NTE0NTgyMTAwMTA0NTc3MDI0.DtYp3w.6CbwzOFs3Sw5tM7AhFp9TEPizJ0
 
 
 owner=290908670529896448
 
 
-prefix=!
+prefix=a
 
 
-game=!help
+game=ahelp | aplay
 
 status=DND
 
